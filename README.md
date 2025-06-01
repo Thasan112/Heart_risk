@@ -20,16 +20,10 @@ Recall: 0.25 (25%)
 F1-score: 0.24 (24%)
 These low scores indicate that the initial model struggles to correctly identify instances of Class 0.
 
-
 How to Run the Script
 Prerequisites
-
-Python 3.x
-
 numpy
-
 matplotlib
-
 scikit-learn
 
 
