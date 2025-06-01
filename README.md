@@ -22,7 +22,7 @@ These low scores indicate that the initial model struggles to correctly identify
 
 
 How to Run the Script
-Prerequisites:
+Prerequisites
 
 Python 3.x
 
@@ -33,11 +33,3 @@ matplotlib
 scikit-learn
 
 
-
-
-
-
-Additionally, the script will display a plot visualizing the class distribution of the synthetic training data before and after applying SMOTE, demonstrating how SMOTE balances the dataset.
-
-Conclusion
-This script provides a practical demonstration of how class_weight='balanced' and SMOTE can be effectively used to improve the performance of classification models on imbalanced datasets, which is a common challenge in medical diagnosis and other real-world applications.
